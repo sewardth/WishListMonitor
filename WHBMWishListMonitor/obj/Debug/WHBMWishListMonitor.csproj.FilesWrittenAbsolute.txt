@@ -1,0 +1,5 @@
+/Users/Tom/Documents/workspace/WHBMWishListMonitor/WHBMWishListMonitor/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Tom/Documents/workspace/WHBMWishListMonitor/WHBMWishListMonitor/bin/Debug/WHBMWishListMonitor.exe.mdb
+/Users/Tom/Documents/workspace/WHBMWishListMonitor/WHBMWishListMonitor/bin/Debug/WHBMWishListMonitor.exe
+/Users/Tom/Documents/workspace/WHBMWishListMonitor/WHBMWishListMonitor/obj/Debug/WHBMWishListMonitor.exe
+/Users/Tom/Documents/workspace/WHBMWishListMonitor/WHBMWishListMonitor/obj/Debug/WHBMWishListMonitor.exe.mdb
